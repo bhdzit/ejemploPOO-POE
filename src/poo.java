@@ -59,7 +59,7 @@ public class poo extends JFrame implements ActionListener {
     }
 
     public static void main(String[] args) throws Exception {
-        JOptionPane.showInputDialog(null,"Ingrese los 6 elementos del vector separado por ',' :");
+
         new poo().setVisible(true);
     }
 
